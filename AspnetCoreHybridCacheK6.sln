@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspnetCoreHybridCacheK6.Api", "src\AspnetCoreHybridCacheK6.Api\AspnetCoreHybridCacheK6.Api.csproj", "{17F2D4FB-011A-4319-890C-B726FF4D9BAD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "misc", "misc", "{F488197A-5FB8-4F26-8342-F392FCF5E306}"
+	ProjectSection(SolutionItems) = preProject
+		loadtest.js = loadtest.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17F2D4FB-011A-4319-890C-B726FF4D9BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F2D4FB-011A-4319-890C-B726FF4D9BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F2D4FB-011A-4319-890C-B726FF4D9BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F2D4FB-011A-4319-890C-B726FF4D9BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
